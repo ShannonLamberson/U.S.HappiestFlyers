@@ -1,1 +1,2 @@
-# U.S.HappiestFlyers
+# U.S.HappiestFliers
+Analysis of Tweets to predict which airlines has the happiest fliers.
